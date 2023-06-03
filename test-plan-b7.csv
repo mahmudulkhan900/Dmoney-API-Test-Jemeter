@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.68578E+12,58,User Login,200,OK,Thread Group 1-1,text,TRUE,,597,312,1,1,http://dmoney.roadtocareer.net/user/login,55,0,24
+1.68578E+12,391,Create Agent,201,Created,Thread Group 1-1,text,TRUE,,603,606,1,1,https://dmoney.roadtocareer.net/user/create,391,0,327
+1.68578E+12,66,Deposit agent ,201,Created,Thread Group 1-1,text,TRUE,,441,529,1,1,https://dmoney.roadtocareer.net/transaction/deposit,66,0,0
+1.68578E+12,40,Create Customer,201,Created,Thread Group 1-1,text,TRUE,,609,614,1,1,https://dmoney.roadtocareer.net/user/create,40,0,0
+1.68578E+12,47,Get newly user,200,OK,Thread Group 1-1,text,TRUE,,606,438,1,1,https://dmoney.roadtocareer.net/user/search/phonenumber/01991245187,46,0,0
+1.68578E+12,63,Deposit Customer,201,Created,Thread Group 1-1,text,TRUE,,440,533,1,1,https://dmoney.roadtocareer.net/transaction/deposit,63,0,0
+1.68578E+12,44,Withdraw Customer,201,Created,Thread Group 1-1,text,TRUE,,429,534,1,1,https://dmoney.roadtocareer.net/transaction/withdraw,44,0,0
+1.68578E+12,19,Delete user,200,OK,Thread Group 1-1,text,TRUE,,375,442,1,1,http://dmoney.roadtocareer.net/user/delete/17736,19,0,0
